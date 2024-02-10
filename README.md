@@ -23,7 +23,9 @@
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
-
+<p align="center">
+  <img src="https://github.com/rushiv7/chat-api/blob/main/chat-api-1.png" width="320" alt="Terminal Test" />
+</p>
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
